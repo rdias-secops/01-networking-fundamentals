@@ -18,9 +18,9 @@ An IP address uniquely identifies a device on a network.
 - Example: 192.168.0.1
 - Types:
   - Private IP (internal network)
-  ex:
+  ex: 192.168.0.10
   -Public IP (internet)
-  ex:
+  ex: 82.129.80.111
 
 ---
 
