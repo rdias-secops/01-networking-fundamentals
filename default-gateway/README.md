@@ -13,7 +13,9 @@ The gateway then forwards the traffic to the correct destination.
 ### Example
 
 Device IP: 192.168.0.10
+
 Subnet Mask: 255.255.255.0
+
 Default Gateway: 192.168.0.1
 
 Explanation:
