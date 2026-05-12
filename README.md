@@ -26,7 +26,7 @@ An IP address uniquely identifies a device on a network.
 
 ### Subnet Mask
 Defines which part of the IP represents the network and which part represents the host.
- - Example: 255.255.255.0 (WRITE MORE HERE)
+ - Example: 255.255.255.0 
 
  ---
 
