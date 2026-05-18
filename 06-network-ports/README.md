@@ -44,6 +44,9 @@ To demonstrate how listening ports work, a local Python HTTP server was created 
 ```bash
 python -m http.server 8080
 ```
+![http.server8080](images/http.server8080%20LINUX%20screenshot.png)
+
+
 ![Open Port 8080](images/command%20ss%20-tuln%20LINUX%20screenshot.png)
 
 
