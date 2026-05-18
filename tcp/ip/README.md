@@ -92,6 +92,8 @@ This demonstrates how HTTPS protects transmitted data.
 
 ## Common Protocols
 
+
+
 | Protocol |       Function           |
 |-------------------------------------|
 | HTTP     | Web communication        |
@@ -99,6 +101,9 @@ This demonstrates how HTTPS protects transmitted data.
 | DNS      | Domain name resolution   |
 | SSH      | Secure remote access     |
 | FTP      | File transfer            |
+
+
+
 
 ## Why is TCP/IP important in cybersecurity?
 
