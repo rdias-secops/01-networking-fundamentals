@@ -95,7 +95,7 @@ This demonstrates how HTTPS protects transmitted data.
 
 
 | Protocol |       Function           |
-|-------------------------------------|
+|----------|--------------------------|
 | HTTP     | Web communication        |
 | HTTPS    | Secure web communication |
 | DNS      | Domain name resolution   |
